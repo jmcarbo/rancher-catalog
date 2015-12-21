@@ -1,0 +1,6 @@
+.catalog:
+  name: "NFS-server"
+  version: "v1.0"
+  description: "NFS server"
+  uuid: nfs-server-0
+  minimum_rancher_version: v0.44.0
