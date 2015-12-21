@@ -2,7 +2,7 @@ nfs:
   image: cpuguy83/nfs-server
   privileged: true
   labels:
-    io.rancher.container.requested_ip=10.42.1.1
+    io.rancher.container.requested_ip=${server_ip}
   volumes:
   - /exports
   command:
