@@ -1,6 +1,6 @@
 .catalog:
   name: "NFS-server"
-  version: "v2.1"
+  version: "v2.2"
   description: "NFS server"
   uuid: nfs-server-0
   minimum_rancher_version: v0.44.0
@@ -10,4 +10,4 @@
       label: "server ip"
       type: "string"
       required: true
-      default: "10.41.1.1"
+      default: "10.42.1.1"
