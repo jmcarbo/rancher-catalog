@@ -1,0 +1,6 @@
+.catalog:
+  name: "Minio server"
+  version: "v0.1"
+  description: "Minio S3 compatible storage server"
+  uuid: minio-server-0
+  minimum_rancher_version: v0.44.0

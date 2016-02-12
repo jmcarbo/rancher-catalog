@@ -1,0 +1,4 @@
+name: minio
+description: S3 compatible storage server server
+version: 0.1
+category: storage

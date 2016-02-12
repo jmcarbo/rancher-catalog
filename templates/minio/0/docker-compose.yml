@@ -1,0 +1,5 @@
+server:
+  image: minio/minio
+  volumes:
+    - export:/export
+
